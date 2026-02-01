@@ -1,6 +1,6 @@
 # DSCI-560-Lab3
 
-- Report[https://docs.google.com/document/d/1CA5SUp8XwkcJLPb3Gi6l4DiezBI0dlL-5ZR8YxSIviU/edit?tab=t.0]
+- [Report Link](https://docs.google.com/document/d/1CA5SUp8XwkcJLPb3Gi6l4DiezBI0dlL-5ZR8YxSIviU/edit?tab=t.0)
 
 By the end of this lab, you will be able to: 
 1. Write and execute a C program performing large matrix operations on a CPU. 
